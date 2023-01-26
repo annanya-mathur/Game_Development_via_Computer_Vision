@@ -24,7 +24,7 @@ while start:
 
     # Apply Logic
     window.fill((255, 255, 255))
-    font = pygame.font.Font('../Resources/Marcellus-Regular.ttf', 100)
+    font = pygame.font.Font('Resources/Marcellus-Regular.ttf', 100)
     font2 = pygame.font.Font(None, 100)
     text = font.render("My Awesome Game", True, (50, 50, 50))
     text2 = font2.render("My Awesome Game", True, (50, 50, 50))
