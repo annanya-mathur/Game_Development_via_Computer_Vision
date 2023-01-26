@@ -1,7 +1,8 @@
 import random
-import pygame
+
 import cv2
 import numpy as np
+import pygame
 from cvzone.HandTrackingModule import HandDetector
 import time
 
