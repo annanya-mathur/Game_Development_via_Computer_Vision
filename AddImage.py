@@ -14,8 +14,8 @@ fps = 30
 clock = pygame.time.Clock()
 
 # Load Images
-imgBackground = pygame.image.load("../Resources/BackgroundBlue.jpg").convert()
-imgBalloonRed = pygame.image.load("../Resources/BalloonRed.png").convert_alpha()
+imgBackground = pygame.image.load("Resources/BackgroundBlue.jpg").convert()
+imgBalloonRed = pygame.image.load("Resources/BalloonRed.png").convert_alpha()
 
 # Main loop
 start = True
